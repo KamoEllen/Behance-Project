@@ -1,0 +1,1 @@
+export { SocialIconsColorInstagram } from "./SocialIconsColorInstagram";

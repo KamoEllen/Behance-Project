@@ -1,0 +1,15 @@
+.index {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .index .div {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64f1f71cf8c32387852d15d7/releases/64f1f8679503b81c8f854f38/img/group-755.png);
+    background-size: 100% 100%;
+    height: 9432px;
+    width: 1920px;
+  }
+  

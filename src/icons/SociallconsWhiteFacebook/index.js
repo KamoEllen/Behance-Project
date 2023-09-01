@@ -1,0 +1,1 @@
+export { SocialIconsWhiteFacebook } from "./SocialIconsWhiteFacebook";
